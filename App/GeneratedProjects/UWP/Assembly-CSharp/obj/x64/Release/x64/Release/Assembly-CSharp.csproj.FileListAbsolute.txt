@@ -1,0 +1,7 @@
+C:\Users\ideepakkrishnan\Documents\My Works\HoloLens\App\GeneratedProjects\UWP\Assembly-CSharp\bin\x64\Release\Assembly-CSharp.dll
+C:\Users\ideepakkrishnan\Documents\My Works\HoloLens\App\GeneratedProjects\UWP\Assembly-CSharp\bin\x64\Release\Assembly-CSharp.pdb
+C:\Users\ideepakkrishnan\Documents\My Works\HoloLens\App\GeneratedProjects\UWP\Assembly-CSharp\bin\x64\Release\Assembly-CSharp-firstpass.dll
+C:\Users\ideepakkrishnan\Documents\My Works\HoloLens\App\GeneratedProjects\UWP\Assembly-CSharp\bin\x64\Release\Assembly-CSharp-firstpass.pdb
+C:\Users\ideepakkrishnan\Documents\My Works\HoloLens\App\GeneratedProjects\UWP\Assembly-CSharp\obj\x64\Release\x64\Release\Assembly-CSharp.csprojResolveAssemblyReference.cache
+C:\Users\ideepakkrishnan\Documents\My Works\HoloLens\App\GeneratedProjects\UWP\Assembly-CSharp\obj\x64\Release\x64\Release\Assembly-CSharp.dll
+C:\Users\ideepakkrishnan\Documents\My Works\HoloLens\App\GeneratedProjects\UWP\Assembly-CSharp\obj\x64\Release\x64\Release\Assembly-CSharp.pdb

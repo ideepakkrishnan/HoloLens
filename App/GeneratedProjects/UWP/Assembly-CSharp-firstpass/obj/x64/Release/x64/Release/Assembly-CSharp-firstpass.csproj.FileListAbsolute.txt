@@ -1,0 +1,4 @@
+C:\Users\ideepakkrishnan\Documents\My Works\HoloLens\App\GeneratedProjects\UWP\Assembly-CSharp-firstpass\bin\x64\Release\Assembly-CSharp-firstpass.dll
+C:\Users\ideepakkrishnan\Documents\My Works\HoloLens\App\GeneratedProjects\UWP\Assembly-CSharp-firstpass\bin\x64\Release\Assembly-CSharp-firstpass.pdb
+C:\Users\ideepakkrishnan\Documents\My Works\HoloLens\App\GeneratedProjects\UWP\Assembly-CSharp-firstpass\obj\x64\Release\x64\Release\Assembly-CSharp-firstpass.dll
+C:\Users\ideepakkrishnan\Documents\My Works\HoloLens\App\GeneratedProjects\UWP\Assembly-CSharp-firstpass\obj\x64\Release\x64\Release\Assembly-CSharp-firstpass.pdb
