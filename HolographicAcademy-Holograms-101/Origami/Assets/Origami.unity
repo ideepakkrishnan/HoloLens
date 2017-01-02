@@ -268,6 +268,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1662084205}
   - component: {fileID: 1662084206}
+  - component: {fileID: 1662084207}
   m_Layer: 0
   m_Name: OrigamiCollection
   m_TagString: Untagged
@@ -300,6 +301,17 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 66273e9fad6e9de489c76002abae32d0, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+--- !u!114 &1662084207
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1662084204}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b0a43cdd064bdd3408a62daf72aee9a6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
 --- !u!1001 &1738458563
