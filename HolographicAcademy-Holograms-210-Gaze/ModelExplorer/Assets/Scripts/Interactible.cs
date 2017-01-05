@@ -51,7 +51,7 @@ public class Interactible : MonoBehaviour
         for (int i = 0; i < defaultMaterials.Length; i++)
         {
             // 2.d: Uncomment the below line to highlight the material when gaze enters.
-            //defaultMaterials[i].SetFloat("_Highlight", .25f);
+            defaultMaterials[i].SetFloat("_Highlight", .25f);
         }
     }
 
@@ -60,7 +60,7 @@ public class Interactible : MonoBehaviour
         for (int i = 0; i < defaultMaterials.Length; i++)
         {
             // 2.d: Uncomment the below line to remove highlight on material when gaze exits.
-            //defaultMaterials[i].SetFloat("_Highlight", 0f);
+            defaultMaterials[i].SetFloat("_Highlight", 0f);
         }
     }
 
