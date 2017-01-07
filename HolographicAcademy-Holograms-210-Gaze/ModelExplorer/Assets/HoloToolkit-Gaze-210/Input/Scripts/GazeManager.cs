@@ -43,7 +43,7 @@ namespace Academy.HoloToolkit.Unity
             /* TODO: DEVELOPER CODING EXERCISE 3.a */
 
             // 3.a: GetComponent GazeStabilizer and assign it to gazeStabilizer.
-
+            gazeStabilizer = GetComponent<GazeStabilizer>();
         }
 
         private void Update()
@@ -56,11 +56,11 @@ namespace Academy.HoloToolkit.Unity
 
             // 3.a: Using gazeStabilizer, call function UpdateHeadStability.
             // Pass in gazeOrigin and Camera's main transform rotation.
-
+            gazeStabilizer.UpdateHeadStability(gazeOrigin, Camera.main.transform.rotation);
 
             // 3.a: Using gazeStabilizer, get the StableHeadPosition and
             // assign it to gazeOrigin.
-
+            gazeOrigin = gazeStabilizer.StableHeadPosition;
 
             UpdateRaycast();
         }
